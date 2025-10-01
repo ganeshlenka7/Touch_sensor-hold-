@@ -15,7 +15,7 @@ The status is also displayed in the **Serial Monitor**.
 ---
 
 ## ⚡ Circuit Diagram
-![Circuit Diagram](image.png)  
+![Circuit Diagram](TTP223_sensor.jpg)  
 
 
 ---
