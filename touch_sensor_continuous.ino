@@ -1,6 +1,6 @@
 // Touch Sensor with Arduino to directly switch LED ON/OFF
 
-int touchPin = 2;    // Touch sensor OUT pin
+int touchPin = 3;    // Touch sensor OUT pin
 int ledPin = 13;     // LED pin
 
 void setup() {
